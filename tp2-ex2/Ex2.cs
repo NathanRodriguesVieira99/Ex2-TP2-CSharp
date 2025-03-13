@@ -19,7 +19,7 @@
 
             TimeSpan diasQueFaltam = aniversarioData - diaAtual;
 
-            Console.WriteLine($"Faltam {diasQueFaltam.Days} dias para sei aniversario");
+            Console.WriteLine($"Faltam {diasQueFaltam.Days} dias para seu aniversario");
         }
         else
         {
